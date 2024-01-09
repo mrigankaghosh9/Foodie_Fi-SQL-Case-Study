@@ -1,7 +1,7 @@
 # <p align="center" style="margin-top: 0px;"> 🥑 Case Study #3 - Foodie-Fi 🥑
 
 <p align="center" style="margin-bottom: 0px !important;">
-<img src="https://github.com/mrigankaghosh9/Foodie_Fi-SQL-Case-Study/blob/main/images/Foodie-Fi%20Photo.png" width="540" height="540">
+<img src="https://github.com/mrigankaghosh9/Foodie_Fi-SQL-Case-Study/blob/main/images/Foodie-Fi%20Photo.png">
 
 ---
 *This repository hosts the solutions to the 3rd challenge (Week 3) of the 8 Weeks SQL Challenge by DannyMa. [Click here to view the full challenge](https://8weeksqlchallenge.com/case-study-3/)*
